@@ -11,3 +11,5 @@ For security vulnerabilities found in third-party libraries, please also contact
 ## Responsible Disclosure Policy
 
 For more information about disclosing a security vulnerability to Sonar, please refer to our community post: [Responsible Vulnerability Disclosure](https://community.sonarsource.com/t/responsible-vulnerability-disclosure/9317).
+
+NEW LINE
