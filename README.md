@@ -33,6 +33,9 @@ Furthermore, there are files such as `package-info.java` and `module-info.java` 
 
 ## License
 
+NEW LINE
+
+
 Copyright 2018-2025 SonarSource
 
 SonarQube analyzers released after November 29, 2024, including patch fixes for prior versions, are published under the [Sonar Source-Available License Version 1 (SSALv1)](LICENSE).
